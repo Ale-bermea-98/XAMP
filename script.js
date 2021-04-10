@@ -1,5 +1,0 @@
-/*
-
-Fun With Social Icons
-
-*/
